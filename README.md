@@ -1,64 +1,84 @@
-<h1 align="left">E aí 👋, tudo bem?</h1>
-
-###
-
-<p align="left">Meu nome é Kevin Lopes, e sou um desenvolvedor full-stack , de Bauru, SP, Brasil.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Criando bugs desde 2004.<br>💻 Atualmente estou aprendendo Python e expandindo minhas habilidades em backend.<br>🎯 Objetivos: Contribuir com soluções inovadoras em software e aprimorar minhas habilidades em integração de dados.<br>🎲 Curiosidade: Adoro resolver problemas, especialmente quando envolvem depuração de sistemas complexos.</p>
-
-###
-
-<h2 align="left">Tecnologias que utilizo</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  
-  
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"  />
 </div>
 
 ###
 
-<h2 align="left">Tecnologias que utilizo</h2>
+<br clear="both">
+
+<h2 align="center">Seja bem-vindo ao meu GitHub 👀🧑‍💻</h2>
 
 ###
 
-<div align="left">
+<h3 align="left">Hello World!!</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">👋 Oi! Eu sou o Kevin<br>Desenvolvedor Full Stack, apaixonado por tecnologia, café forte ☕ e aquele frio na barriga de aprender algo novo.<br>Atualmente, estou cursando Ciência da Computação e colocando a mão na massa em projetos que misturam teoria, prática e propósito.<br><br>Curto desafios que me tiram da zona de conforto, trocar ideia com gente incrível e construir coisas que realmente façam sentido.<br><br><br>Sempre aprendendo. Sempre evoluindo. 🚀</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/kevin-lopes-151797221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:kevinlopesdemorais@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=5514997922151&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://mail.google.com/kevinlopesdemorais@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kevin&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kevin/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdyZmo3bThlenRsazR3OXdhcm5zdGZ1eXl0MzFvbDVvaTNsZ2RydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWfowxJtHySJ0SGCgN/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">✨ Chegamos ao fim!  <br>Valeu pela visita e até a próxima! 😄🚀</h4>
 
 ###
