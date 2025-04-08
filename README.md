@@ -1,84 +1,63 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
 </div>
 
-###
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedora Full Stack | Bacharelado em Engenharia de Software</i></p>a
 
-<br clear="both">
+---
 
-<h2 align="center">Seja bem-vindo ao meu GitHub 👀🧑‍💻</h2>
+## 🌟 Sobre Mim
 
-###
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-<h3 align="left">Hello World!!</h3>
+Eu sou a **Francine**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
 
-###
-
-<br clear="both">
-
-<p align="left">👋 Oi! Eu sou o Kevin<br>Desenvolvedor Full Stack, apaixonado por tecnologia, café forte ☕ e aquele frio na barriga de aprender algo novo.<br>Atualmente, estou cursando Ciência da Computação e colocando a mão na massa em projetos que misturam teoria, prática e propósito.<br><br>Curto desafios que me tiram da zona de conforto, trocar ideia com gente incrível e construir coisas que realmente façam sentido.<br><br><br>Sempre aprendendo. Sempre evoluindo. 🚀</p>
-
-###
-
-<br clear="both">
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kevin-lopes-151797221/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://portfolio-2-swart-tau.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="portfolio icon" />
   </a>
-  <a href="mailto:kevinlopesdemorais@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="mailto:francine.c.oliveiracruz@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/francine-ccruz/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5514997922151&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/5551986283397">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kevin&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kevin/Kevin/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
+---
 
-<br clear="both">
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto running" />
+
+> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
+> — **Naruto Uzumaki**
+<br>
+
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kevin/count.svg?"  />
+  <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Naruto running" />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdyZmo3bThlenRsazR3OXdhcm5zdGZ1eXl0MzFvbDVvaTNsZ2RydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWfowxJtHySJ0SGCgN/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="center">✨ Chegamos ao fim!  <br>Valeu pela visita e até a próxima! 😄🚀</h4>
-
-###
+<br>
+<p align="center"><i>Obrigada pela visita! ❤️</i></p>
