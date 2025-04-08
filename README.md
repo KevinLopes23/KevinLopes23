@@ -48,7 +48,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/radio-polskie-disco-polo-rock-gif-23949892" width="250" alt="bye gif" />
+  <img src="https://media.giphy.com/media/YnmEsq9ICSYQ8/giphy.gif?cid=ecf05e47s8di0ta1qeu4wngh44cbi0xdllbtwspewjiqgazn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" alt="bye gif" />
 </div>
 
 <p align="center"><i>Valeu pela visita! Até a próxima 👋🚀</i></p>
