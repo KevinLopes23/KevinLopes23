@@ -47,9 +47,5 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 
 ---
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JzZjBnZHhwNW5tc2E0YzByZzN2MDB6c3JwZmQ2OXE3ODZla3h5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifgi2GsUhnpkkTe/giphy.gif" style="width: 100%; max-width: 600px;" alt="bye gif" />
-</div>
 
-
-<p align="center"><i>Valeu pela visita! Até a próxima 👋🚀</i></p>
+<h3 align="center"><i>Valeu pela visita! Até a próxima 👋🚀</i></h3>
