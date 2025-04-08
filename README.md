@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100" alt="coding-cat" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="coding-cat" />
 </div>
 
 <h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!</h1> 
@@ -48,7 +48,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdyZmo3bThlenRsazR3OXdhcm5zdGZ1eXl0MzFvbDVvaTNsZ2RydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fWfowxJtHySJ0SGCgN/giphy.gif" width="350" alt="bye gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhhNzNvbWRkcncwaTlneHI3bmxjM3dxcXBmNmt3Z2hybW56MDQzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUwpNzg9IcyrK/giphy.gif" width="250" alt="bye gif" />
 </div>
 
 <p align="center"><i>Valeu pela visita! Até a próxima 👋🚀</i></p>
