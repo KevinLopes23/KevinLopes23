@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="100" alt="coding-cat" />
 </div>
 
 <h1 align="center"> 🧑‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
@@ -9,7 +9,7 @@
 
 ## 🌟 Sobre Mim
 
-<img align="right" alt="#" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="120" />
+<img align="right" alt="#" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRvbGt0aGxjcXp6MTF2OG0zdGgwYmJ6bHExbGs0azJ0ejZkNnh0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="120" />
 
 Eu sou a **Kevin**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Ciencia da Computação** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
 
