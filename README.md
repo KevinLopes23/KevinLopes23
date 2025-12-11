@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!</h1> 
-<p align="center"><i>Desenvolvedor Full Stack | Bacharelando em Ciência da Computação</i></p>
+<p align="center"><i>Desenvolvedor Full Stack | Bacharel em Ciência da Computação</i></p>
 
 ---
 
