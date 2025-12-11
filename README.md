@@ -12,7 +12,7 @@
 <img align="right" alt="dev gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRvbGt0aGxjcXp6MTF2OG0zdGgwYmJ6bHExbGs0azJ0ejZkNnh0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="120" />
 
 Sou o **Kevin**, desenvolvedor full stack entusiasta por tecnologia e aprendizado contínuo.  
-Atualmente curso **Ciência da Computação** e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
+Formado em **Ciência da Computação** e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
