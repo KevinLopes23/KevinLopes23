@@ -36,7 +36,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kevin-lopes-151797221/" target="_blank">
