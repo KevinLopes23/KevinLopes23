@@ -28,11 +28,9 @@
     Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
   </p>
 </div>
-<br clear="both">
 
 ###
 
-<br clear="both">
 
 <h2 align="left">📖Minhas Redes</h2>
 
@@ -54,13 +52,11 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">🖥️ Tecnologias que utilizo</h2>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -102,7 +98,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="center">Valeu pela visita! Até a próxima 👋🚀</h2>
 
