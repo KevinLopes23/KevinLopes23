@@ -16,15 +16,19 @@
 
 ###
 
-<p align="left">Sou o Kevin, desenvolvedor full stack entusiasta por tecnologia e aprendizado contínuo.<br>Formado em Ciência da Computação e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.<br><br>Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.</p>
+<div align="left">
+  <img align="right" height="230" style="padding-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVlNzdnb3RsZzR3dWhpMnVyNjRwMXd4ZzNwaXkwenVvcmhwNW5mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVlNzdnb3RsZzR3dWhpMnVyNjRwMXd4ZzNwaXkwenVvcmhwNW5mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+  <h3>Sou o Kevin</h3>
+  <p>
+    Desenvolvedor full stack entusiasta por tecnologia e aprendizado contínuo.
+    <br><br>
+    Formado em Ciência da Computação e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
+    <br><br>
+    Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
+  </p>
 </div>
+<br clear="both">
 
 ###
 
