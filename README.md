@@ -4,35 +4,35 @@
 
 ###
 
-<h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">🧑‍💻 Welcome to my GitHub!</h1>
 
 ###
 
-<p align="center">Desenvolvedor Full Stack | Bacharel em Ciência da Computação</p>
+<p align="center">Full Stack Developer | Bachelor of Computer Science</p>
 
 ###
 
-<h2 align="left">🌟 Sobre Mim</h2>
+<h2 align="left">🌟 About Me</h2>
 
 ###
 
 <div align="left">
   <img align="right" height="230" style="padding-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVlNzdnb3RsZzR3dWhpMnVyNjRwMXd4ZzNwaXkwenVvcmhwNW5mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
 
-  <h3>Sou o Kevin</h3>
+  <h3>I'm Kevin</h3>
   <p>
-    Desenvolvedor full stack entusiasta por tecnologia e aprendizado contínuo.
+    Full stack developer enthusiastic about technology and continuous learning.
     <br><br>
-    Formado em Ciência da Computação e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
+    Graduated in Computer Science, applying my knowledge to projects that combine theory, practice, and purpose.
     <br><br>
-    Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
+    I am always looking for experiences that challenge me, connect me with amazing people, and help me grow as a professional and a person.
   </p>
 </div>
 
 ###
 
 
-<h2 align="left">📖Minhas Redes</h2>
+<h2 align="left">📖 My Socials</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 ###
 
 
-<h2 align="left">🖥️ Tecnologias que utilizo</h2>
+<h2 align="left">🖥️ Technologies I use</h2>
 
 ###
 
@@ -98,6 +98,4 @@
 ###
 
 
-<h2 align="center">Valeu pela visita! Até a próxima 👋🚀</h2>
-
-###
+<h2 align="center">Thanks for visiting! See you next time 👋🚀</h2>
