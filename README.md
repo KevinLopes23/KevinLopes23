@@ -1,101 +1,114 @@
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=230&section=header&text=Kevin%20Lopes&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Bachelor%20of%20Computer%20Science&descAlignY=56&descSize=18" />
+
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmcxMmdxY2s0YmVlYW1hazZ3ZHYya2ZpbHl4ZWdibHQxazJpMGE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Turning+coffee+into+code+%E2%98%95;React+%E2%80%A2+TypeScript+%E2%80%A2+C%23+%E2%80%A2+Flutter;From+database+to+pixel+%F0%9F%A7%A9;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kevin-lopes-151797221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/5514997922151"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:kevinlopesdemorais@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=KevinLopes23&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+
 </div>
 
-###
+---
 
-<h1 align="center">🧑‍💻 Welcome to my GitHub!</h1>
+<!-- ================= TERMINAL ================= -->
+<h2>🖥️ <code>~/kevin</code></h2>
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=22C55E&multiline=true&repeat=false&width=720&height=190&lines=kevin%40github%3A~%24+whoami;%E2%9E%9C+Kevin+Lopes+%E2%80%94+Full+Stack+Developer+%F0%9F%87%A7%F0%9F%87%B7;kevin%40github%3A~%24+cat+mission.txt;%E2%9E%9C+Projects+that+mix+theory%2C+practice+and+purpose.;kevin%40github%3A~%24+echo+%24STATUS;%E2%9E%9C+Open+to+challenges+%26+amazing+people+%E2%9C%A8" alt="terminal" />
 
-<p align="center">Full Stack Developer | Bachelor of Computer Science</p>
+<!-- ================= ABOUT AS CODE ================= -->
+<h2>🧬 About me</h2>
 
-###
+```ts
+const kevin = {
+  role: "Full Stack Developer",
+  education: "Bachelor of Computer Science 🎓",
+  location: "Brazil 🇧🇷",
+  frontend: ["React", "Angular", "TypeScript", "Sass", "Flutter"],
+  backend: ["C# / .NET", "Python", "Node.js"],
+  data: ["MySQL", "Firebase"],
+  cloud: ["AWS"],
+  tools: ["Git", "GitLab", "Jira", "Jest", "npm"],
+  mindset: "Learn → Build → Ship → Repeat",
+  askMeAbout: ["web apps", "APIs", "clean code", "coffee ☕"],
+};
+```
 
-<h2 align="left">🌟 About Me</h2>
+<!-- ================= HOW I WORK (Mermaid) ================= -->
+<h2>🧠 How I build things</h2>
 
-###
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B[🔍 Understand the problem]
+    B --> C[✏️ Design]
+    C --> D[⌨️ Code]
+    D --> E[🧪 Test]
+    E --> F[🚀 Ship]
+    F --> G[📈 Feedback]
+    G -. iterate .-> B
+    style A fill:#7c3aed,stroke:#a78bfa,color:#fff
+    style F fill:#22c55e,stroke:#16a34a,color:#fff
+```
 
-<div align="left">
-  <img align="right" height="230" style="padding-left: 20px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVlNzdnb3RsZzR3dWhpMnVyNjRwMXd4ZzNwaXkwenVvcmhwNW5mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
+<!-- ================= STACK ================= -->
+<h2>⚡ Tech stack</h2>
 
-  <h3>I'm Kevin</h3>
-  <p>
-    Full stack developer enthusiastic about technology and continuous learning.
-    <br><br>
-    Graduated in Computer Science, applying my knowledge to projects that combine theory, practice, and purpose.
-    <br><br>
-    I am always looking for experiences that challenge me, connect me with amazing people, and help me grow as a professional and a person.
-  </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,sass,flutter,cs,dotnet,py,nodejs,mysql,firebase,aws,jest,git,gitlab,npm,vscode&perline=9" />
 </div>
 
-###
+<!-- ================= 3D CONTRIBUTIONS ================= -->
+<h2>🌌 My contributions in 3D</h2>
 
+<img width="100%" src="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
-<h2 align="left">📖 My Socials</h2>
+<!-- ================= STATS ================= -->
+<h2>📊 GitHub stats</h2>
 
-###
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kevin-lopes-151797221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="43" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5514997922151" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="43" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:kevinlopesdemorais@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="43" alt="gmail logo"  />
-  </a>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevinLopes23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLopes23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=KevinLopes23&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
-###
+<details>
+<summary><b>📈 Click to see my activity graph</b></summary>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinLopes23&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
+</details>
 
-
-<h2 align="left">🖥️ Technologies I use</h2>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<details>
+<summary><b>🏆 Click to see my trophies</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KevinLopes23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
+</details>
 
-###
+<details>
+<summary><b>🎲 Random dev quote</b></summary>
+<br/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+</details>
 
-<img src="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/output/snake.svg" alt="Snake animation" />
+<!-- ================= SNAKE (auto light/dark) ================= -->
+<h2>🐍 Eating my contributions</h2>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/output/snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/KevinLopes23/KevinLopes23/output/snake.svg" />
+</picture>
 
-
-<h2 align="center">Thanks for visiting! See you next time 👋🚀</h2>
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=26&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
