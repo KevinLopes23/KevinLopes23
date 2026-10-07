@@ -80,16 +80,10 @@ flowchart LR
 </div>
 
 <details>
-<summary><b>📈 Click to see my activity graph</b></summary>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinLopes23&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
-</details>
-
-<details>
 <summary><b>🏆 Click to see my trophies</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KevinLopes23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-trophies.vercel.app/?username=KevinLopes23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 </details>
 
