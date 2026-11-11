@@ -73,8 +73,7 @@ flowchart LR
 <h2>📊 GitHub stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KevinLopes23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinLopes23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
   <br/>
   <img src="https://streak-stats.demolab.com?user=KevinLopes23&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
